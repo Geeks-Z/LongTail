@@ -1,4 +1,4 @@
-## Class-Incremental Learning
+## LongTail
 
 <div align=center><img src="https://markdownimg-hw.oss-cn-beijing.aliyuncs.com/logo.png" style="zoom: 60%;" /></div>
 <p></p>
@@ -6,7 +6,7 @@
 
 ## 介绍
 
-## LongTail
+## Paper
 
 | Title | Venue | Year | Type | Code | Code_Position |
 | ----- | ----- | ---- | ---- | ---- | ------------- |
